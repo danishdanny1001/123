@@ -1,0 +1,8 @@
+first data
+
+<<<<<<< HEAD
+
+second data
+=======
+123
+>>>>>>> user1
