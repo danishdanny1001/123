@@ -6,3 +6,5 @@ second data
 =======
 123
 >>>>>>> user1
+
+data
