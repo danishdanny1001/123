@@ -8,3 +8,5 @@ second data
 >>>>>>> user1
 
 data
+
+pull data
